@@ -20,6 +20,7 @@
 + [와이어프레임](#와이어프레임)
 + [TroubleShooting](#TroubleShooting)
 + [시연 영상 링크](#시연-영상-링크)
++ [게임 빌드 파일](#게임-빌드-파일)
 
 
 ---
@@ -113,3 +114,10 @@
 ### ✨시연 영상
 
 [![Video Label](http://img.youtube.com/vi/7Zv5PqPu8xM/0.jpg)](https://youtu.be/7Zv5PqPu8xM)
+
+
+---
+
+### ✨게임 빌드 파일
+
+https://drive.google.com/file/d/1UgwBCZclMPR6XVyMA-zfVD7_i9KyLz1z/view?usp=sharing
