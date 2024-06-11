@@ -120,4 +120,5 @@
 
 ### ✨게임 빌드 파일
 
-https://drive.google.com/file/d/1UgwBCZclMPR6XVyMA-zfVD7_i9KyLz1z/view?usp=sharing
+[https://drive.google.com/file/d/1UgwBCZclMPR6XVyMA-zfVD7_i9KyLz1z/view?usp=sharing
+](https://drive.google.com/file/d/1huNZPiYQPc0E1YVkguVzfl3dMExU7Whk/view?usp=sharing)
