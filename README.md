@@ -113,7 +113,7 @@
 
 ### ✨시연 영상
 
-[![Video Label](http://img.youtube.com/vi/7Zv5PqPu8xM/0.jpg)](https://youtu.be/7Zv5PqPu8xM)
+[![Video Label](http://img.youtube.com/vi/92FY8zKgkdM/0.jpg)](https://youtu.be/92FY8zKgkdM)
 
 
 ---
